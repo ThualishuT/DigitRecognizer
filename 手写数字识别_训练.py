@@ -1,4 +1,4 @@
-"""这是一个利用人工神经网络实现手写数字识别的Python程序。"""
+"""这是一个用于训练手写数字识别人工神经网络，并测试其最优参数的Python程序。"""
 
 import numpy
 import scipy.special
